@@ -32,4 +32,4 @@ Tengo la capacidad de dirigir equipos, colaborar efectivamente en entornos diver
 ![background](https://i.ibb.co/rFqQLcT/SUSHICLUBIMG.jpg)
 
   
-![](https://komarev.com/ghpvc/?username=JoseAlfaroo&color=cdcdcd&style=for-the-badge)
+
