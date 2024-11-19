@@ -1,35 +1,53 @@
-## Saludos 💡
+<h1 align="center"><b>Hola, soy José Alfaro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Me presento, soy José Alfaro, un estudiante de la carrera de Computación e Informática del instituto CIBERTEC. Actualmente cursando el quinto y penúltimo ciclo de la carrera.
-<br/><br/> 
-Tengo la capacidad de dirigir equipos, colaborar efectivamente en entornos diversos y gestionar proyectos de manera autónoma. Comprometido con el logro de objetivos y la mejora continua.
-<br/><br/> 
+<p>Un estudiante de la carrera de Computación e Informática del instituto CIBERTEC. Actualmente cursando el último ciclo de la carrera.</p>
 
-**💻 Experiencia en:**
-- Java (Spring)
-- C# (ASP.NET, ASP.NET CORE, Web API)
-- SQL (SQL Server, MySQL)
-- NoSQL (MongoDB)
-- HTML, CSS (Bootstrap, Tailwind)
-- JavaScript
-- Análisis de sistemas
-<br/> 
+<p>Me caracterizo por la capacidad de dirigir equipos, colaborar efectivamente en entornos diversos y gestionar proyectos de manera autónoma. Vivo comprometido con el logro de objetivos y la mejora continua.</p>
 
-**🧰 Mis herramientas:**
+<p align="center">
+  <img alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+</p>
 
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-053440?logo=visualstudiocode&logoColor=23a4db&style=plastic)
-![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-053440?logo=intellijidea&logoColor=fff&style=plastic)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-053440?logo=mongodb&logoColor=18b51a&style=plastic)
-![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-053440?logo=visualstudio&logoColor=b45dd4&style=plastic)
-![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-053440?logo=androidstudio&logoColor=e8edff&style=plastic)
-![Git Badge](https://img.shields.io/badge/Git-053440?logo=git&logoColor=eb6715&style=plastic)
+<a href="https://www.youtube.com/watch?v=em0MknB6wFo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<br/>
+<h2>💻 Cuento con experiencia en:</h2>
 
-**⚙️ Actualmente:**
-- Experimentando con Kotlin en Android
+<p align="left">
+  <ul>
+    <li>Java <b>(Spring)</b> ☕</li>
+    <li>C# <b>(ASP.NET, ASP.NET CORE, Web API)</b> #️⃣</li>
+    <li>SQL <b>(SQL Server, MySQL)</b> 🗃️</li>
+    <li>NoSQL <b>(MongoDB)</b> 🗂️</li>
+    <li>HTML, CSS <b>(Bootstrap, Tailwind)</b> 🌐</li>
+    <li>JavaScript 🟨</li>
+    <li>Kotlin 🔵</li>
+    <li>Control de versiones 🔄</li>
+    <li>Análisis de sistemas 🧠</li>
+  </ul>
+</p>
 
-![background](https://i.ibb.co/rFqQLcT/SUSHICLUBIMG.jpg)
+<a href="https://www.youtube.com/watch?v=em0MknB6wFo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-  
+<h2>🧰 Mis herramientas del día a día:</h2>
 
+<p align="center">
+  <img src="https://i.ibb.co/1vRS5mr/MongoDB.png" alt="MongoDB" style="width: 60px; height: 60px; object-fit: contain;" hspace="10" />
+  <img src="https://i.ibb.co/9n1jb4N/VS.png" alt="Visual Studio" style="width: 60px; height: 60px; object-fit: contain;" hspace="10" />
+  <img src="https://i.ibb.co/yPJ48XP/Android-Studio.png" alt="Android Studio" style="width: 60px; height: 60px; object-fit: contain;" hspace="10" />
+  <img src="https://i.ibb.co/zh3rBWR/Intellij-IDEA.png" alt="IntelliJ IDEA" style="width: 60px; height: 60px; object-fit: contain;" hspace="10" />
+  <img src="https://i.ibb.co/mc1n7VD/Postman.png" alt="Postman" style="width: 60px; height: 60px; object-fit: contain;" hspace="10" />
+  <img src="https://i.ibb.co/RbZCQTW/Figma.png" alt="Figma" style="width: 60px; height: 60px; object-fit: contain;" hspace="10" />
+  <img src="https://i.ibb.co/cghTVvD/Git-Bash.png" alt="Git Bash" style="width: 60px; height: 60px; object-fit: contain;" hspace="10" />
+  <img src="https://i.ibb.co/BLsf0C0/VSC.png" alt="Visual Studio Code" style="width: 60px; height: 60px; object-fit: contain;" hspace="10" />
+</p>
+
+<a href="https://www.youtube.com/watch?v=em0MknB6wFo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<h2>⚙️ Actualmente me encuentro:</h2>
+<ul>
+  <li>A cargo de la dirección de múltiples proyectos</li>
+  <li>Desarrollando APIs en .NET Core 8.0</li>
+  <li>Gestionando bases de datos</li>
+</ul>
+
+<a href="https://www.youtube.com/watch?v=em0MknB6wFo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
