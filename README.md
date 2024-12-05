@@ -1,7 +1,5 @@
 <h1 align="center">
-    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0bedb362-1325-47fe-8fb8-8a1224de0221/df0386y-e1c4065e-a91c-4b61-920b-489ec7e30796.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBiZWRiMzYyLTEzMjUtNDdmZS04ZmI4LThhMTIyNGRlMDIyMVwvZGYwMzg2eS1lMWM0MDY1ZS1hOTFjLTRiNjEtOTIwYi00ODllYzdlMzA3OTYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.onff7KoTYMmLu6iBMJgi6hJKNm9UxNTcEfuD_9Stzyw" width="28" style="vertical-align: middle;">
     Hola, soy José
-    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0bedb362-1325-47fe-8fb8-8a1224de0221/df0386y-e1c4065e-a91c-4b61-920b-489ec7e30796.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBiZWRiMzYyLTEzMjUtNDdmZS04ZmI4LThhMTIyNGRlMDIyMVwvZGYwMzg2eS1lMWM0MDY1ZS1hOTFjLTRiNjEtOTIwYi00ODllYzdlMzA3OTYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.onff7KoTYMmLu6iBMJgi6hJKNm9UxNTcEfuD_9Stzyw" width="28" style="vertical-align: middle;">
 </h1>
 
 <p>
