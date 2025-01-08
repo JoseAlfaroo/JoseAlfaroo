@@ -3,7 +3,7 @@
 </h1>
 
 <p>
-  Me presento, soy <b>José Alfaro</b> estudiante de la carrera de Computación e Informática del instituto <b>CIBERTEC</b> Actualmente cursando el último ciclo de la carrera.</p>
+  Me presento, mi nombre es <b>José Alfaro</b>, egresado de la carrera de Computación e Informática del instituto <b>CIBERTEC</b>. Actualmente buscando oportunidades laborales.</p>
 
 <p>Me caracterizo por la capacidad de dirigir equipos, colaborar efectivamente en entornos diversos y gestionar proyectos de manera autónoma. Vivo comprometido con el logro de objetivos y la mejora continua.</p>
 
@@ -51,9 +51,9 @@
 
 <h2>⚙️ Actualmente estoy:</h2>
 <ul>
-  <li>En la dirección de múltiples proyectos</li>
-  <li>Desarrollando APIs en .NET Core 8.0</li>
-  <li>Gestionando bases de datos</li>
+  <li>Continuando y experimentando en proyectos personales</li>
+  <li>Realizando mi portafolio</li>
+  <li><b>[Secreto]</b></li>
 </ul>
 
 <a href="https://www.youtube.com/watch?v=em0MknB6wFo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
