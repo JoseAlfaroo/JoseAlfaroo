@@ -3,7 +3,7 @@
 </h1>
 
 <p>
-  Me presento, mi nombre es <b>José Alfaro</b>, egresado de la carrera de Computación e Informática del instituto <b>CIBERTEC</b>. Actualmente buscando oportunidades laborales.</p>
+  Hola, soy <b>José Alfaro</b>, egresado de la carrera de Computación e Informática del instituto <b>CIBERTEC</b>. Actualmente buscando oportunidades laborales.</p>
 
 <p>Me caracterizo por la capacidad de dirigir equipos, colaborar efectivamente en entornos diversos y gestionar proyectos de manera autónoma. Vivo comprometido con el logro de objetivos y la mejora continua.</p>
 
@@ -14,7 +14,7 @@
   </picture>
 </p>
 
-<a href="https://www.youtube.com/watch?v=em0MknB6wFo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=Up6Lmv4yoHg"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2>💻 Tengo experiencia en:</h2>
 
@@ -32,7 +32,7 @@
   </ul>
 </p>
 
-<a href="https://www.youtube.com/watch?v=em0MknB6wFo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=wflrhtGXWZw"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2>🧰 Mis herramientas:</h2>
 
@@ -47,13 +47,11 @@
   <img src="https://i.ibb.co/BLsf0C0/VSC.png" alt="Visual Studio Code" style="width: 60px; height: 60px; object-fit: contain;" hspace="10" />
 </p>
 
-<a href="https://www.youtube.com/watch?v=em0MknB6wFo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=HcuB_kpX3tc"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2>⚙️ Actualmente estoy:</h2>
 <ul>
-  <li>Continuando y experimentando en proyectos personales</li>
-  <li>Realizando mi portafolio</li>
-  <li><b>[Secreto]</b></li>
+  <li>Aprendiendo Angular</li>
 </ul>
 
-<a href="https://www.youtube.com/watch?v=em0MknB6wFo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=l-Yclah0I-M"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
