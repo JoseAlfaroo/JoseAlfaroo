@@ -1,11 +1,10 @@
 <h1 align="center">
-    Hola, soy José
+    Welcome to my profile 🚀
 </h1>
 
-<p>
-  Hola, soy <b>José Alfaro</b>, egresado de la carrera de Computación e Informática del instituto <b>CIBERTEC</b>. Actualmente buscando oportunidades laborales.</p>
+<p> Greetings, my name is <b>José Alfaro</b> and I hold a technical degree in Computer Science and Information Technology from <b>CIBERTEC</b>. I am currently seeking job opportunities and actively working on personal projects. I have knowledge in backend, frontend, mobile development, and databases.</p>
 
-<p>Me caracterizo por la capacidad de dirigir equipos, colaborar efectivamente en entornos diversos y gestionar proyectos de manera autónoma. Vivo comprometido con el logro de objetivos y la mejora continua.</p>
+<p>I am known for my leadership skills, effective collaboration in diverse environments, and ability to manage projects independently</p>
 
 <p align="center">
   <picture>
@@ -16,42 +15,43 @@
 
 <a href="https://www.youtube.com/watch?v=Up6Lmv4yoHg"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h2>💻 Tengo experiencia en:</h2>
-
-<p align="left">
-  <ul>
-    <li>Java <b>(Spring)</b> ☕</li>
-    <li>C# <b>(ASP.NET, ASP.NET CORE, Web API)</b> #️⃣</li>
-    <li>SQL <b>(SQL Server, MySQL)</b> 🗃️</li>
-    <li>NoSQL <b>(MongoDB)</b> 🗂️</li>
-    <li>HTML, CSS <b>(Bootstrap, Tailwind)</b> 🌐</li>
-    <li>JavaScript 🟨</li>
-    <li>Kotlin 🔵</li>
-    <li>Control de versiones 🔄</li>
-    <li>Análisis de sistemas 🧠</li>
-  </ul>
+<h2>💻 Stack:</h2>
+<p>
+Here are some of the skills I’ve acquired through research, study, and past projects:
 </p>
+  <ul>
+    <li>Java <b>(Spring)</b> ☕♨️</li>
+    <li>C# <b>(.NET CORE, Web API)</b> #️⃣🤖</li>
+    <li>SQL <b>(SQL Server, MySQL)</b> 🗃️🗄️</li>
+    <li>NoSQL <b>(MongoDB, Firebase)</b> 🗃️🗂️</li>
+    <li>HTML, CSS <b>(Bootstrap, Tailwind)</b> 💻🌐</li>
+    <li>JavaScript, Typescript 🟨🟦</li>
+    <li>Kotlin 📱✨</li>
+    <li>Version Control <b>(Git, GitHub, GitLab)</b> ⏳🪄</li>
+    <li>System analysis 📝🏅</li>
+    <li>Scrum knowledge 🔄🎯</li>
+  </ul>
 
 <a href="https://www.youtube.com/watch?v=wflrhtGXWZw"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h2>🧰 Mis herramientas:</h2>
-
+<h2>🧰 Tools:</h2>
+<p>Here are some of the tools I use regularly to develop, design, and manage projects, allowing me to be more productive, efficient, and collaborative:</p>
 <p align="center">
-  <img src="https://i.ibb.co/1vRS5mr/MongoDB.png" alt="MongoDB" style="width: 60px; height: 60px; object-fit: contain;" hspace="10" />
-  <img src="https://i.ibb.co/9n1jb4N/VS.png" alt="Visual Studio" style="width: 60px; height: 60px; object-fit: contain;" hspace="10" />
-  <img src="https://i.ibb.co/yPJ48XP/Android-Studio.png" alt="Android Studio" style="width: 60px; height: 60px; object-fit: contain;" hspace="10" />
-  <img src="https://i.ibb.co/zh3rBWR/Intellij-IDEA.png" alt="IntelliJ IDEA" style="width: 60px; height: 60px; object-fit: contain;" hspace="10" />
-  <img src="https://i.ibb.co/mc1n7VD/Postman.png" alt="Postman" style="width: 60px; height: 60px; object-fit: contain;" hspace="10" />
-  <img src="https://i.ibb.co/RbZCQTW/Figma.png" alt="Figma" style="width: 60px; height: 60px; object-fit: contain;" hspace="10" />
-  <img src="https://i.ibb.co/cghTVvD/Git-Bash.png" alt="Git Bash" style="width: 60px; height: 60px; object-fit: contain;" hspace="10" />
-  <img src="https://i.ibb.co/BLsf0C0/VSC.png" alt="Visual Studio Code" style="width: 60px; height: 60px; object-fit: contain;" hspace="10" />
+  <img src="./img/MongoDB.png" alt="MongoDB" style="width: 50px; height: auto; object-fit: contain;" hspace="5"/>
+  <img src="./img/VisualStudio.png" alt="Visual Studio" style="width: 50px; height: auto; object-fit: contain;" hspace="5"/>
+  <img src="./img/AndroidStudio.png" alt="Android Studio" style="width: 50px; height: auto; object-fit: contain;" hspace="5"/>
+  <img src="./img/IntelliJ.png" alt="IntelliJ IDEA" style="width: 50px; height: auto; object-fit: contain;" hspace="5"/>
+  <img src="./img/Postman.png" alt="Postman" style="width: 50px; height: auto; object-fit: contain;" hspace="5"/>
+  <img src="./img/Figma.png" alt="Figma" style="width: 50px; height: auto; object-fit: contain;" hspace="5"/>
+  <img src="./img/Git.png" alt="Git" style="width: 50px; height: auto; object-fit: contain;" hspace="5"/>
+  <img src="./img/VisualStudioCode.png" alt="Visual Studio Code" style="width: 50px; height: auto; object-fit: contain;" hspace="5"/>
 </p>
 
 <a href="https://www.youtube.com/watch?v=HcuB_kpX3tc"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h2>⚙️ Actualmente estoy:</h2>
+<h2>⚙️ Currently:</h2>
 <ul>
-  <li>Aprendiendo Angular</li>
+  <li>[...]</li>
 </ul>
 
 <a href="https://www.youtube.com/watch?v=l-Yclah0I-M"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
