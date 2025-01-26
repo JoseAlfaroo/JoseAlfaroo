@@ -64,7 +64,7 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/jos%C3%A9-alfaro/"><img src="./img/LinkedIn.png" alt="LinkedIn"  width="50px" hspace="5"/></a>
     <a href="mailto:joseantonioalfarosalcedo@gmail.com"><img src="./img/Email.png" alt="Email"  width="50px" hspace="5"/></a>
-    <a href="https://github.com/JoseAlfaroo"><img src="./img/GitHub.png" alt="GitHub"  width="50px" hspace="5"/></a>
+    <a href="https://github.com/JoseAlfaroo"><img src="https://raw.githubusercontent.com/JoseAlfaroo/JoseAlfaroo/refs/heads/main/img/GitHub.png" alt="GitHub"  width="50px" hspace="5"/></a>
     <a href="https://wa.me/+51926833733"><img src="./img/WhatsApp.png" alt="WhatsApp"  width="50px" hspace="5"/></a>
     <a href="https://gitlab.com/JoseAlfaroo"><img src="./img/GitLab.png" alt="GitLab"  width="50px" hspace="5"/></a>
     <a href="https://www.facebook.com/JoseAlfaro0/"><img src="./img/Facebook.png" alt="Facebook"  width="50px" hspace="5"/></a>
