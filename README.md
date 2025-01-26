@@ -57,6 +57,23 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="YouTube Link">
 </a>
 
+<h2>🏹 Links:</h2>
+<p>
+    Connect with me through the following platforms to collaborate, network, or simply say hello:
+</p>
+<div align="center">
+    <a href="https://www.linkedin.com/in/jos%C3%A9-alfaro/"><img src="./img/LinkedIn.png" alt="LinkedIn"  width="50px" hspace="5"/></a>
+    <a href="mailto:joseantonioalfarosalcedo@gmail.com"><img src="./img/Email.png" alt="Email"  width="50px" hspace="5"/></a>
+    <a href="https://github.com/JoseAlfaroo"><img src="./img/GitHub.png" alt="GitHub"  width="50px" hspace="5"/></a>
+    <a href="https://wa.me/+51926833733"><img src="./img/WhatsApp.png" alt="WhatsApp"  width="50px" hspace="5"/></a>
+    <a href="https://gitlab.com/JoseAlfaroo"><img src="./img/GitLab.png" alt="GitLab"  width="50px" hspace="5"/></a>
+    <a href="https://www.facebook.com/JoseAlfaro0/"><img src="./img/Facebook.png" alt="Facebook"  width="50px" hspace="5"/></a>
+</div>
+
+<a href="https://www.youtube.com/watch?v=l-Yclah0I-M">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="YouTube Link">
+</a>
+
 <h2>⚡ Currently:</h2>
 <ul>
     <li>Actively looking for job opportunities.</li>
@@ -64,7 +81,3 @@
     <li>Following software development online courses.</li>
     <li>Taking English lessons to improve my skills.</li>
 </ul>
-
-<a href="https://www.youtube.com/watch?v=l-Yclah0I-M">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="YouTube Link">
-</a>
